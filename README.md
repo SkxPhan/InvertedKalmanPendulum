@@ -1,5 +1,7 @@
 # InvertedKalmanPendulum: Stabilizing Inverted Pendulum with Observer-based Strategy
 
+![Demo Inverted Pendulum](demo.gif)
+
 ## Introduction
 The InvertedKalmanPendulum project focuses on solving the classic problem of stabilizing an inverted pendulum using control engineering techniques. In this setup, the rotation point of a rigid rod pendulum is connected to a horizontally moving cart. The primary objective is to stabilize the pendulum such that its center of mass remains above the rotation point.
 
